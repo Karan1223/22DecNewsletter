@@ -1,3 +1,3 @@
 # CTTodayDecNewsLetter
 
-CT Today NewsLetter for 22 Dec 23.
+CT Today NewsLetter for 03 Jan 24.
